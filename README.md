@@ -1,1 +1,1 @@
-# login-mean-stack
+# login-mean
